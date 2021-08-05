@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Andrei!
-- 👀 I’m interested in electronics, programming and science.
+- 👀 I’m interested in electronics, programming and games.
 - 🌱 I’m currently learning new things.
 - 💞️ I’m looking to collaborate on challenging projects.
 
